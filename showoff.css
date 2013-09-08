@@ -29,3 +29,13 @@ em {
 a {
   color: #698B69;
 }
+code {
+  background-color: #222;
+  border-radius: 2px;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+.code code {
+  background-color: transparent;
+  border: none;
+}
