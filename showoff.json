@@ -1,0 +1,8 @@
+{
+  "name": "vim",
+  "sections": [
+    { "section":"Vim voor die ene keer" },
+    { "section":"Vim als IDE" }
+    { "section":"Vim meesterschap" }
+  ]
+}
