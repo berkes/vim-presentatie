@@ -1,4 +1,7 @@
 !SLIDE bullets incremental transition=scrollHorz
+# **IDE** #
+
+!SLIDE bullets incremental transition=scrollHorz
 # Wut? #
 
 * Intergrated Development Environment

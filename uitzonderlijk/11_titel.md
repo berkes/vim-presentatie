@@ -1,8 +1,11 @@
+!SLIDE bullets incremental transition=scrollHorz
+# ** UITZONDERLIJK **
+
 !SLIDE full-page
 
 ![closing](closing.png)
 
-!SLIDE 
+!SLIDE
 
 > Q: How to create a random string of characters?
 >

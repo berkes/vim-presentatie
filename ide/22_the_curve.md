@@ -7,6 +7,7 @@
 * Steil.
 * De eerste dagen/weken/maanden werk je op halve kracht.
 * Niet.
+!SLIDE bullets incremental transition=scrollHorz
 
 # Tips #
 * Gebruik macvim of gvim. Muis werkt gewoon.
@@ -18,6 +19,7 @@
 
 ![janus http://jeffkreeftmeijer.com/images/vim2.png](janus.png)
 
+!SLIDE bullets incremental transition=scrollHorz
 # Distro #
 * Is complex.
 * Gaat kapot.
