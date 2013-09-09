@@ -1,1 +1,7 @@
-{"name":"My Preso","sections":[{"section":"voorwoord"}, {"section":"uitzonderlijk"}, {"section":"ide"}] }
+{
+  "name":"Vim",
+  "sections": [
+    {"section":"voorwoord"}, 
+    {"section":"uitzonderlijk"}, 
+    {"section":"ide"} ]
+}
