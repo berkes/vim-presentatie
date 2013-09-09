@@ -51,3 +51,15 @@ Die oom 	Adieu Mariken nichte,
           Tes dwaesheit ionghe meyskens of vrouwen
           Alleene te laten gaen achter lande,
           Want die boeverie der werelt is menigherhande. 
+
+###########################################################################
+#                                  DEMO                                   #
+###########################################################################
+ Movement:
+15jfy
+
+ Macro:
+qa
+/^Mi*<esc>ea*<esc>lx
+a
+8@a
